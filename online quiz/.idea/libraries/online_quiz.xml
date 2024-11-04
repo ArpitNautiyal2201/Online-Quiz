@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="online_quiz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/online_quiz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
